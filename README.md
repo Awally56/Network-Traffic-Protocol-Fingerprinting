@@ -139,6 +139,3 @@ This is especially useful when payload data is encrypted and cannot be inspected
 👨‍💻 Author
 
 Ali Salah
-
-* Add **ML part (Task 28 full solution)**
-* Or make it **look more professional for submission (PDF/PPT)** 👍
